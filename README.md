@@ -12,6 +12,9 @@ Scan network Usage: ./portscanner.py [network] [start port] [end port] -n Exampl
 Upcoming
 
 Add UDP scanning
+
 Add ability to set default timeout
+
 Add option to output results to file
+
 Clean up code
